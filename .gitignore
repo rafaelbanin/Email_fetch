@@ -35,4 +35,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-backend/token.json
+# hide token.json
+token.json
+backend/
